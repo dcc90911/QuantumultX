@@ -16,3 +16,7 @@ HOST-SUFFIX,wax.weibo.com.cn,广告屏蔽
 HOST-SUFFIX,weibomingzi.com,广告屏蔽
 HOST-SUFFIX,widget.weibo.com,广告屏蔽
 HOST-SUFFIX,zymo.mps.weibo.com,广告屏蔽
+
+# >bilibili
+HOST-SUFFIX,miniapp.bilibili.com,广告屏蔽
+host-suffix,cm.bilibili.com,广告屏蔽
