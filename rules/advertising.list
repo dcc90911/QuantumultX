@@ -1,0 +1,18 @@
+# > Sina
+DOMAIN-SUFFIX,alitui.weibo.com,广告屏蔽
+DOMAIN-SUFFIX,beacon.sina.com.cn,广告屏蔽
+DOMAIN,adimg.uve.weibo.com,广告屏蔽
+DOMAIN,adimg.vue.weibo.com,广告屏蔽
+DOMAIN,u1.img.mobile.sina.cn,广告屏蔽
+DOMAIN,sax.sina.com.cn,广告屏蔽
+DOMAIN,saxs.sina.com.cn,广告屏蔽
+DOMAIN,saxn.sina.com.cn,广告屏蔽
+HOST-SUFFIX,int.dpool.sina.com.cn,广告屏蔽
+HOST-SUFFIX,promote.biz.weibo.cn,广告屏蔽
+HOST-SUFFIX,sdkapp.uve.weibo.com,广告屏蔽
+HOST-SUFFIX,tui.weibo.com,广告屏蔽
+HOST-SUFFIX,wax.weibo.com,广告屏蔽
+HOST-SUFFIX,wax.weibo.com.cn,广告屏蔽
+HOST-SUFFIX,weibomingzi.com,广告屏蔽
+HOST-SUFFIX,widget.weibo.com,广告屏蔽
+HOST-SUFFIX,zymo.mps.weibo.com,广告屏蔽
