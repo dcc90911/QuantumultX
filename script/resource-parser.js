@@ -1,15 +1,11 @@
-/**  资源解析器 ⟦2023-11-16⟧  **/
 
-//beginning 解析器正常使用，調試註釋此部分
 
 let [link0, content0, subinfo] = [$resource.link, $resource.content, $resource.info]
 let version = typeof $environment != "undefined" ? Number($environment.version.split("build")[1]): 0 // 版本号
-let Perror = 0 //错误类型
+let Perror = 0 
 
 const subtag = typeof $resource.tag != "undefined" ? $resource.tag : "";
-////// 非 raw 链接的沙雕情形
 content0 = content0.indexOf("DOCTYPE html") != -1 && link0.indexOf("github.com") != -1 ? ToRaw(content0) : content0 ;
-//ends 正常使用部分，調試註釋此部分
 
 
 var para = /^(http|https)\:\/\//.test(link0) ? link0 : content0.split("\n")[0];
