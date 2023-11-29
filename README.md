@@ -1,1 +1,1 @@
-QuantumultX自用规则
+JUST DO IT
