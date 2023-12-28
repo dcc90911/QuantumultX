@@ -1,6 +1,6 @@
 # 屏蔽系统更新
-host, ns.itunes.apple.com
-host, appldnld.apple.com
-host, mesu.apple.com
-host, xp.apple.com
-host, gdmf.apple.com
+host, ns.itunes.apple.com,广告屏蔽
+host, appldnld.apple.com,广告屏蔽
+host, mesu.apple.com,广告屏蔽
+host, xp.apple.com,广告屏蔽
+host, gdmf.apple.com,广告屏蔽
