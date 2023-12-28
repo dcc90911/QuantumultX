@@ -11,11 +11,11 @@ IP-CIDR,203.107.1.1/24,广告屏蔽
 
 
 # 屏蔽系统更新
-host, ns.itunes.apple.com,广告屏蔽
-host, appldnld.apple.com,广告屏蔽
-host, mesu.apple.com,广告屏蔽
-host, xp.apple.com,广告屏蔽
-host, gdmf.apple.com,广告屏蔽
+#host, ns.itunes.apple.com,广告屏蔽
+#host, appldnld.apple.com,广告屏蔽
+#host, mesu.apple.com,广告屏蔽
+#host, xp.apple.com,广告屏蔽
+#host, gdmf.apple.com,广告屏蔽
 
 HOST-SUFFIX,m.uc123.com,广告屏蔽
 HOST,wmedia-track.uc.cn,广告屏蔽
